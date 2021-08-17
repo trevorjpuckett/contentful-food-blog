@@ -1,7 +1,7 @@
 # contentful-food-blog
  example contentful consumer application
 
-### Dependencies
+## Dependencies
 - [NodeJS](https://nodejs.org/en/download/)
 - [React](https://create-react-app.dev/docs/getting-started/)
 - [Contentful NPM Package](https://www.npmjs.com/package/contentful)
@@ -9,9 +9,9 @@
 - [Marked NPM Package](https://www.npmjs.com/package/marked)
 
 
-### Notes
+## Notes
 
-#### DangerouslySetInnerHtml
+### DangerouslySetInnerHtml
 
 **This keyword is used to interpret the markdown language into rendered HTML in the app/src/components/Post.js file.**  
 
